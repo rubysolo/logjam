@@ -1,0 +1,14 @@
+{
+  "name":         "logjam",
+  "description":  "stream server log to browser",
+  "version":      "0.0.1",
+  "private":      true,
+
+  "dependencies": {
+    "connect":        "*",
+    "socket.io":      "*",
+    "tail":           "*",
+    "coffee-script":  "*",
+    "ansi_up":        "*"
+  }
+}
